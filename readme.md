@@ -1,1 +1,3 @@
-<img src="IMG.jpg>
+<p>
+    <img src="IMG.jpg" alt="" srcset="">
+</p>
